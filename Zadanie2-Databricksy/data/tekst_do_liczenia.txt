@@ -1,0 +1,4 @@
+To jest przykładowy tekst do liczenia słów.
+To ćwiczenie pokazuje, jak działa PySpark.
+Słowa takie jak PySpark, tekst, liczenie powinny się pojawić kilka razy.
+To jest bardzo prosty tekst do nauki.
